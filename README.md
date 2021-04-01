@@ -1,2 +1,2 @@
 # simples-rede-social
-aplicação para interesse didático
+aplicação com interesse didático
